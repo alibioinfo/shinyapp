@@ -1,6 +1,4 @@
-library(shiny)
-library(shinydashboard)
-library(shinydashboardPlus)
+
 library(rtracklayer)
 library(phylobase)
 #
